@@ -22,8 +22,8 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 
 ## 📦 Featured Projects
 
-### 🔹 [DEPI Graduation Project](https://github.com/alzahraamohy/DEPI_graduation_project) ###🔹 [Word Frequency Analysis](https://github.com/alzahraamohy/word_freq_analysis)
-### 🔹 [Automated Weather Data Pipeline](https://github.com/alzahraamohy/Automated-Weather-Data-Pipeline-with-Azure-Data-Studio-) ### 🔹 [Dino Game](https://github.com/alzahraamohy/Dino_GAME)
+### 🔹 [DEPI Graduation Project](https://github.com/alzahraamohy/DEPI_graduation_project) 🔹 [Word Frequency Analysis](https://github.com/alzahraamohy/word_freq_analysis)
+### 🔹 [Automated Weather Data Pipeline](https://github.com/alzahraamohy/Automated-Weather-Data-Pipeline-with-Azure-Data-Studio-) 🔹 [Dino Game](https://github.com/alzahraamohy/Dino_GAME)
 
 ---
 
