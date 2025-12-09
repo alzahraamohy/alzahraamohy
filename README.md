@@ -12,11 +12,14 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 ---
 
 ## 🔧 What I Work On
-- ETL/ELT pipelines & workflow orchestration  
-- Data modeling & warehousing  
-- Data quality frameworks & automated checks  
-- Python scripting & automation  
-- Simple dashboards & monitoring  
+- ETL/ELT pipelines & workflow orchestration
+- Data modeling & warehousing
+- Data quality frameworks & automated checks
+- Python scripting & automation
+- Simple dashboards & monitoring
+- Data science fundamentals & exploratory analysis
+- Building and experimenting with ML models
+- Getting hands-on with AI concepts and practical applications 
 
 ---
 
@@ -35,7 +38,9 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 <a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40"/></a>
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/></a>
+<a href="https://www.w3schools.com/sql/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="40" alt="SQL"/></a>
 </p>
+
 
 ---
 
