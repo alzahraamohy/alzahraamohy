@@ -3,9 +3,7 @@
 </div>
 
 ### Hi 👋 My name is **Alzahraa Mohy**
-<p align="center">
-  <img src="https://www.blackhatworld.com/media/line-neon-gif.5029/" width="100%" />
-</p>
+
 ### 💼 Junior Data Engineer
 
 I'm a Data Engineer who loves building scalable pipelines, ensuring clean high-quality data, and turning raw data into meaningful insights.  
