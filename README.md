@@ -41,15 +41,6 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 </a>
 </p>
 
-
----
-
-## 🔗 Socials
-<p align="left">
-<a href="https://github.com/alzahraamohy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/></a>
-<a href="https://www.linkedin.com/in/alzahraa-mohy/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
-</p>
-
 ---
 
 ## ⭐ Final Note
