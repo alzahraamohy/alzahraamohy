@@ -4,9 +4,7 @@
 
 ### Hi 👋 My name is **Alzahraa Mohy**
 
-### 💼 Junior Data Engineer
-
-I'm a Data Engineer who loves building scalable pipelines, ensuring clean high-quality data, and turning raw data into meaningful insights.  
+I'm a **Data Engineer** who loves building scalable pipelines, ensuring clean high-quality data, and turning raw data into meaningful insights.  
 Passionate about automation, cloud technologies, and modern data engineering practices.
 
 ---
