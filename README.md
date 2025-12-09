@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Data Engineer GIF"/>
 </div>
 
-Hi 👋 My name is **Alzahraa Mohy**
+### Hi 👋 My name is **Alzahraa Mohy**
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blackhatworld.com%2Fmedia%2Fline-neon-gif.5029%2F&psig=AOvVaw19P8d_EjbCJeigNhOvbfAv&ust=1765379783275000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDf9KrmsJEDFQAAAAAdAAAAABAK" width="100%" />
+  <img src="https://www.blackhatworld.com/media/line-neon-gif.5029/" width="100%" />
 </p>
 ### 💼 Junior Data Engineer
 
