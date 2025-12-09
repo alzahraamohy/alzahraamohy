@@ -20,31 +20,16 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 
 ---
 
-## 📦 Featured Projects (Compact View)
+## 📦 Featured Projects
 
-<p align="left">
-
-🔹 **DEPI Graduation Project**  
-<a href="https://github.com/alzahraamohy/DEPI_graduation_project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alzahraamohy&repo=DEPI_graduation_project&theme=tokyonight&hide_border=true" width="350"/>
-</a>
-
-🔹 **Word Frequency Analysis**  
-<a href="https://github.com/alzahraamohy/word_freq_analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alzahraamohy&repo=word_freq_analysis&theme=tokyonight&hide_border=true" width="350"/>
-</a>
-
-🔹 **Automated Weather Data Pipeline**  
-<a href="https://github.com/alzahraamohy/Automated-Weather-Data-Pipeline-with-Azure-Data-Studio-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alzahraamohy&repo=Automated-Weather-Data-Pipeline-with-Azure-Data-Studio-&theme=tokyonight&hide_border=true" width="350"/>
-</a>
-
-🔹 **Dino Game**  
-<a href="https://github.com/alzahraamohy/Dino_GAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alzahraamohy&repo=Dino_GAME&theme=tokyonight&hide_border=true" width="350"/>
-</a>
-
-</p>
+### 🔹 [DEPI Graduation Project](https://github.com/alzahraamohy/DEPI_graduation_project)
+---
+### 🔹 [Word Frequency Analysis](https://github.com/alzahraamohy/word_freq_analysis)
+---
+### 🔹 [Automated Weather Data Pipeline](https://github.com/alzahraamohy/Automated-Weather-Data-Pipeline-with-Azure-Data-Studio-)
+---
+### 🔹 [Dino Game](https://github.com/alzahraamohy/Dino_GAME)
+---
 
 ---
 
@@ -70,6 +55,6 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 
 ## ⭐ Final Note
 Thanks for visiting my profile!  
-If you liked my work, feel free to ⭐ any repo — it means a lot 💛  
-Always open to collaboration, learning, and building cool data projects!
+If you enjoyed my work, feel free to ⭐ your favorite repo — it truly helps 💛  
+Always open to new opportunities, collaboration, and building impactful data projects!
 
