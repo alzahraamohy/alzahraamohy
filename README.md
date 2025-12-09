@@ -36,7 +36,9 @@ Passionate about automation, cloud technologies, and modern data engineering pra
 <a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40"/></a>
 <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"/></a>
-<a href="https://www.w3schools.com/sql/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="40" alt="SQL"/></a>
+<a href="https://www.w3schools.com/sql/">
+  <img src="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator/public/icons/skills/sql-colored.svg" width="40" alt="SQL"/>
+</a>
 </p>
 
 
